@@ -1,4 +1,4 @@
-# **DRAFT** AS-11 X4 (MXF Program Contribution - HD Long GOP (59.94p, 23.98p))
+# **[Work In Progress]** AS-11 X4 (MXF Program Contribution - HD Long GOP (59.94p, 23.98p))
 
 This repository contains the full details of this AMWA Specification.
 

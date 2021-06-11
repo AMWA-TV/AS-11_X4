@@ -1,4 +1,4 @@
-# **[Work In Progress]** AS-11 X4 (MXF Program Contribution - HD Long GOP (23.98p (24/1.001p), 59.94p (60/1.001p)))
+# **[Archived]** AS-11 X4 (MXF Program Contribution - HD Long GOP (23.98p (24/1.001p), 59.94p (60/1.001p)))
 
 ### **View the latest version of this Specification online [here](https://amwa-tv.github.io/AS-11_X4/AMWA_AS_11_X4.html)**.
 
